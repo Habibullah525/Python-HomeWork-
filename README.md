@@ -1,2 +1,2 @@
 # Python-HomeWork-
-It is just for Python homework
+It is just for Python homework.
